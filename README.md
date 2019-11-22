@@ -1,5 +1,7 @@
 # Stock_Prediction_bi_GRU
-Implementation of Yumo Xu and Shay B. Cohen. 2018. Stock Movement Prediction from Tweets and Historical Prices.
+Implementation of the following paper:[[bib](https://aclanthology.info/papers/P18-1183/p18-1183.bib)]
+
+Yumo Xu and Shay B. Cohen. 2018. [Stock Movement Prediction from Tweets and Historical Prices](http://aclweb.org/anthology/P18-1183). In Proceedings of the 56st Annual Meeting of the Association for Computational Linguistics. Melbourne, Australia, volume 1.
 
 Based on https://github.com/yumoxu/stocknet-code
 
